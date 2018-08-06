@@ -1,0 +1,75 @@
+{
+  "damageLevel" : [{
+    "valueCode": "玻璃单独破碎",
+    "valueChineseName": "玻璃单独破碎"
+  },{
+    "valueCode": "轻微",
+    "valueChineseName": "轻微"
+  },{
+    "valueCode": "严重",
+    "valueChineseName": "严重"
+  },{
+    "valueCode": "全损",
+    "valueChineseName": "全损"
+  },{
+    "valueCode": "盗抢",
+    "valueChineseName": "盗抢"
+  }],
+  "duty":  [{
+    "valueCode": "本车全责",
+    "valueChineseName": "本车全责"
+  },{
+    "valueCode": "次责",
+    "valueChineseName": "次责"
+  },{
+    "valueCode": "无责",
+    "valueChineseName": "无责"
+  }],
+  "injuredPersonType":
+  [{
+    "valueCode": "司机",
+    "valueChineseName": "司机"
+  },{
+    "valueCode": "乘客",
+    "valueChineseName": "乘客"
+  },{
+    "valueCode": "行人",
+    "valueChineseName": "行人"
+  }],
+  "injuredPersonLevel": [{
+    "valueCode": "轻微",
+    "valueChineseName": "轻微"
+  },{
+    "valueCode": "严重",
+    "valueChineseName": "严重"
+  },{
+    "valueCode": "死亡",
+    "valueChineseName": "死亡"
+  }],
+  "injuredPersonHospitalOptions": [{
+    "valueCode": "是",
+    "valueChineseName": "是"
+  },{
+    "valueCode": "否",
+    "valueChineseName": "否"
+  }],
+  "node": [{
+    "valueCode": "01",
+    "valueChineseName": "新建"
+  },{
+    "valueCode": "06",
+    "valueChineseName": "跟踪"
+  },{
+    "valueCode": "99",
+    "valueChineseName": "废弃"
+  },{
+    "valueCode": "02",
+    "valueChineseName": "调解"
+  },{
+    "valueCode": "03",
+    "valueChineseName": "诉讼"
+  },{
+    "valueCode": "00",
+    "valueChineseName": "结案"
+  }]
+}
